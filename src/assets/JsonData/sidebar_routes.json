@@ -1,0 +1,22 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Bins",
+        "route": "/bins",
+        "icon": "bx bx-trash"
+    },
+    {
+        "display_name": "Staffs",
+        "route": "/staffs",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Reports",
+        "route": "/reports",
+        "icon": "bx bx-bar-chart-alt"
+    }
+]

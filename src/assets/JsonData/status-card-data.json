@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "bx bx-trash",
+        "count": "21%",
+        "title": "Paper Bin"
+    },
+    {
+        "icon": "bx bx-trash",
+        "count": "80%",
+        "title": "Plastic Bin"
+    },
+    {
+        "icon": "bx bx-trash", 
+        "count": "40%",
+        "title": "Undefined Bin"
+    }
+]

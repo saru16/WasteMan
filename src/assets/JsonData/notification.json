@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-trash",
+        "content": "#OD1713 Bins is Full"
+    },
+    {
+        "icon": "bx bx-trash",
+        "content": "#OD1712 Bin is Halff filled"
+    },
+    {
+        "icon": "bx bx-trash",
+        "content": "#OD1713 Bin is Empty"
+    },
+    {
+        "icon": "bx bx-trash",
+        "content": "#OD1712 Bin is Halff filled"
+    },
+    {
+        "icon": "bx bx-trash",
+        "content": "#OD1713 Bins is Full"
+    }
+]
